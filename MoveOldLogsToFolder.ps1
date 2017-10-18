@@ -13,7 +13,7 @@ $selectedFiles = Get-ChildItem -Path ${env:$currentDirectory} -Recurse -Include 
 echo $selectedFiles
 		
 # Move all selected files in the directories - "OldLogs"
-$targetDirectory = "OldLog"
+$targetDirectory = "OldLogs"
 echo $targetDirectory
 
 $targetDirectoryPath = $currentDirectory.ToString()+"\"+$targetDirectory+"\"

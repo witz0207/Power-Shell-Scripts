@@ -1,2 +1,2 @@
 # Power-Shell-Scripts
-Little tools to help automatic deal with routine on windows.
+Little tools to help automatic process routine work on windows.
